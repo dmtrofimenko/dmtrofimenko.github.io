@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Дмитрий Сергеевич Трофименко
+N;CHARSET=UTF-8:Трофименко;Дмитрий;Сергеевич;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tds@prin.ru
+TEL;TYPE=CELL:+79242003774
+TEL;TYPE=WORK,VOICE:+74212929177
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Шевчука\, 42\, офис 303;Хабаровск;;680007;
+TITLE;CHARSET=UTF-8:Руководитель Дальневосточного подразделения
+ORG;CHARSET=UTF-8:АО "ПРИН"
+URL;type=WORK;CHARSET=UTF-8:https://prin.ru
+REV:2023-03-18T15:48:25.234Z
+END:VCARD
