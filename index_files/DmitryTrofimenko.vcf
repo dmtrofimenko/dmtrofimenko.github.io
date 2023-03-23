@@ -3,7 +3,7 @@ VERSION:3.0
 FN;CHARSET=UTF-8:Дмитрий Сергеевич Трофименко
 N;CHARSET=UTF-8:Трофименко;Дмитрий;Сергеевич;;
 ORG;CHARSET=UTF-8:АО "ПРИН"
-ADR;CHARSET=UTF-8;TYPE=WORK:;;Шевчука\, 42\, офис 303;Хабаровск;;680007;
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Шевчука\, 42\, офис 303;Хабаровск;Хабаровский край;680007;
 TITLE:Руководитель Дальневосточного подразделения
 TEL;TYPE=CELL:+79242003774
 TEL;TYPE=WORK:+74212929177
@@ -14,4 +14,5 @@ URL;TYPE=WhatsApp:https://wa.me/79242003774
 URL;TYPE=VK:https://vk.com/pringeo
 URL;TYPE=YouTube:https://youtube.com/@user-hw8hs9iq1r
 NOTE:Развиваем рынок геодезии с 1990 года!
+REV:2023-03-23
 END:VCARD
